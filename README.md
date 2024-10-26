@@ -67,13 +67,3 @@ References to the LSTM models:
 2. Stacked LSTM: https://www.sciencedirect.com/science/article/pii/S1877050920304865
 3. Stacked Residual LSTM: https://arxiv.org/abs/1610.03098
   
-
-## Acknowledgements
-The first author gratefully acknowledges the NTU-India Connect Research Internship Programme which allowed him to carry out part of this research project while visiting the Nanyang Technological University, Singapore.<br>
-The second author gratefully acknowledges financial support by his Nanyang Assistant Professorship Grant (NAP Grant) <em>Machine Learning based Algorithms in Finance and Insurance</em>.
-
-## References
-[1] [Fischer, Thomas, and Christopher Krauss. "Deep learning with long short-term memory networks for financial market predictions." European Journal of Operational Research 270.2 (2018): 654-669.](https://www.econstor.eu/bitstream/10419/157808/1/886576210.pdf) <br>
-[2] [Krauss, Christopher, Xuan Anh Do, and Nicolas Huck. "Deep neural networks, gradient-boosted trees, random forests: Statistical arbitrage on the S&P 500." European Journal of Operational Research 259.2 (2017): 689-702.](https://www.econstor.eu/bitstream/10419/130166/1/856307327.pdf)
-
-
