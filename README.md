@@ -1,7 +1,5 @@
-# [Forecasting directional movements of stock-prices for intraday trading using LSTM and random-forest](https://arxiv.org/abs/2004.10178)
+# Stock-market-forecasting-Final
 
-**https://arxiv.org/abs/2004.10178** <br>
-**Pushpendu Ghosh, Ariel Neufeld, Jajati K Sahoo**
 
 We design a highly profitable trading stratergy and employ random forests and LSTM networks (more precisely CuDNNLSTM) to analyze their effectiveness in forecasting out-of-sample directional movements of constituent stocks of the S&amp;P 500, for intraday trading, from January 1993 till December 2018. 
 
