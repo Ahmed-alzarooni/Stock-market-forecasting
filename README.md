@@ -66,4 +66,9 @@ References to the LSTM models:
 1. Single Layer GRU: https://arxiv.org/abs/1412.3555
 2. Stacked LSTM: https://www.sciencedirect.com/science/article/pii/S1877050920304865
 3. Stacked Residual LSTM: https://arxiv.org/abs/1610.03098
+
+
+#### Future Work
+
+We plan on comparing and contrasting our LSTM model other LSTM architectures and use the latest available data without removing fiscal anomalies like the dotcom bubble ,the housing crisis and COVID-19.
   
