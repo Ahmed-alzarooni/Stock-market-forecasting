@@ -70,5 +70,5 @@ References to the LSTM models:
 
 #### Future Work
 
-We plan on comparing and contrasting our LSTM model other LSTM architectures and use the latest available data without removing fiscal anomalies like the dotcom bubble ,the housing crisis and COVID-19.
+We plan on comparing and contrasting our LSTM model against other LSTM architectures and use the latest available data without removing fiscal anomalies like the dotcom bubble ,the housing crisis and COVID-19.
   
